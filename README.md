@@ -35,9 +35,13 @@ I'm a FullStack developer | Pentester | React Native developer Jr.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![GNUbash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-[![davizardb](https://github-readme-stats.vercel.app/api/top-langs/?username=davizardb&hide=html&layout=compact&theme=radical)](https://github.com/davizardb/)
+<a href="https://github.com/davizardb/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=davizardb&theme=radical" alt="davizardb github stats"/>
+</a>
+<a href="https://github.com/davizardb/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizardb&hide=html&layout=compact&theme=radical" />
+</a>
 
-[![card](https://github-readme-stats.vercel.app/api?username=davizardb&theme=radical)](https://github.com/davizard/)
 
 <h3> &nbsp;Contact me </h3> 
 
@@ -46,3 +50,9 @@ I'm a FullStack developer | Pentester | React Native developer Jr.
 [![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/davozard)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585985712316)](https://api.whatsapp.com/send?phone=5585985712316)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/davizardb?label=follow&style=social)](https://github.com/davizardb/)
+
+<a href="https://github.com/davizardb/davizardb/blob/main/assets/otter.jpeg">
+  <img align="center" src="./assets/otter.jpeg" width="400px">
+</a>
+
+[README templates](https://github.com/iuricode/README-template/ "Source")
