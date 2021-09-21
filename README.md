@@ -47,8 +47,6 @@ I'm a FullStack developer | Pentester | React Native developer Jr.
 
 [![Linkedin: Davi Luís](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/davi-lu%C3%ADs-097bb0199/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:davi.luis@aluno.uece.br)
-[![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/davozard)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585985712316)](https://api.whatsapp.com/send?phone=5585985712316)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/davizardb?label=follow&style=social)](https://github.com/davizardb/)
 
 <a href="https://github.com/davizardb/davizardb/blob/main/assets/otter.jpeg">
