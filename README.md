@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="./assets/hi.gif" width="28px">, My name is Davi Luís <img src="./assets/poke.gif" width="50px">
 
-I'm a FullStack developer | Pentester | React Native developer Jr.
+I'm a FullStack developer | Pentester | React Native developer Pl.
 
 - 🤔 &nbsp; Actually seeking for new oppotunitties and studying Network Security / developing with React Native.
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
