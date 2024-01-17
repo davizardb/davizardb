@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="./assets/hi.gif" width="28px">, My name is Davi Luís <img src="./assets/poke.gif" width="50px">
 
-I'm a FullStack developer | Pentester | React Native developer Pl.
+I'm a Mobile developer | Pentester | React Native developer PL | .
 
-- 🤔 &nbsp; Actually seeking for new oppotunitties and studying Network Security / developing with React Native.
+- 🤔 &nbsp; Actually seeking for new oppotunitties and studying IoT / AI / already managed to deliver and maintain about 10 different Apps built with React Native.
 - 🎓 &nbsp; Graduated in **COMPUTER SCIENCE** at <a href="http://www.uece.br/">UECE - Ceará State University</a>.
 - 🔭 &nbsp; Co-founder of a static informative project called [**InfoseCE**](https://infosece.github.io/ "InfoseCE") to share a little knowledge about PentTest and used tools.
 
