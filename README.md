@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a FullStack developer | Pentester | React Native developer Pl.
 
 - 🤔 &nbsp; Actually seeking for new oppotunitties and studying Network Security / developing with React Native.
-- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
+- 🎓 &nbsp; Graduated in **COMPUTER SCIENCE** at <a href="http://www.uece.br/">UECE - Ceará State University</a>.
 - 🔭 &nbsp; Co-founder of a static informative project called [**InfoseCE**](https://infosece.github.io/ "InfoseCE") to share a little knowledge about PentTest and used tools.
 
 <h3>&nbsp;Languages and tools </h3>
